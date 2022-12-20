@@ -1,0 +1,20 @@
+#root > div > div.container.valign-wrapper > div {
+  margin: auto !important;
+}
+
+#root > div > div.container > div > div > a {
+  color: aliceblue;
+}
+
+#root > div > div.navbar-fixed > nav > div {
+  background-color: #2979ff !important;
+}
+
+#root > div > div.navbar-fixed > nav > div > a {
+  color: white !important;
+}
+
+#root > div > div.container > div > div > a {
+  margin-top: 2vh !important;
+  margin-bottom: 1vh !important;
+}
