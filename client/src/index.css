@@ -330,3 +330,7 @@ code {
   > input[type="file"]:active::before {
   background: white;
 }
+
+#root > div > div.container.valign-wrapper {
+  padding-top: 100px;
+}

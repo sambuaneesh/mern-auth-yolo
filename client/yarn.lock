@@ -1584,6 +1584,18 @@
     "uncontrollable" "^7.2.1"
     "warning" "^4.0.3"
 
+"@rive-app/canvas@1.0.97":
+  "integrity" "sha512-NpA/z8FW/ktIghJSeZB/ySgG3H+TMhzFC5tnotKuFnxbzhH4qyKk+6FHM7BIjBKhBQ10vHnf45kUrLTRArfQhA=="
+  "resolved" "https://registry.npmjs.org/@rive-app/canvas/-/canvas-1.0.97.tgz"
+  "version" "1.0.97"
+
+"@rive-app/react-canvas@^3.0.34":
+  "integrity" "sha512-UJFmPXKKnx7wUsNN5FADMVqqlV8/iTj8KJ2vs9/tUYLO7UYSpvTGswNEnPELUgDXJl7VWiO9MyikhWk450/4MA=="
+  "resolved" "https://registry.npmjs.org/@rive-app/react-canvas/-/react-canvas-3.0.34.tgz"
+  "version" "3.0.34"
+  dependencies:
+    "@rive-app/canvas" "1.0.97"
+
 "@rollup/plugin-babel@^5.2.0":
   "integrity" "sha512-WFfdLWU/xVWKeRQnKmIAQULUI7Il0gZnBIH/ZFO069wYIfPu+8zrfp/KMW0atmELoRDq8FbiP3VCss9MhCut7Q=="
   "resolved" "https://registry.npmjs.org/@rollup/plugin-babel/-/plugin-babel-5.3.1.tgz"
@@ -7527,7 +7539,7 @@
     "loose-envify" "^1.4.0"
     "prop-types" "^15.6.2"
 
-"react@^0.14.0 || ^15.0.0-0 || ^16.0.0-0", "react@^16.14.0", "react@^16.6.3", "react@^16.8.0 || ^17.0.0-rc.1 || ^18.0.0", "react@>= 16", "react@>=0.14.0", "react@>=15", "react@>=15.0.0", "react@>=16.14.0", "react@>=16.6.0", "react@>=16.8.0":
+"react@^0.14.0 || ^15.0.0-0 || ^16.0.0-0", "react@^16.14.0", "react@^16.6.3", "react@^16.8.0 || ^17.0.0 || ^18.0.0", "react@^16.8.0 || ^17.0.0-rc.1 || ^18.0.0", "react@>= 16", "react@>=0.14.0", "react@>=15", "react@>=15.0.0", "react@>=16.14.0", "react@>=16.6.0", "react@>=16.8.0":
   "integrity" "sha512-0X2CImDkJGApiAlcf0ODKIneSwBPhqJawOa5wCtKbu7ZECrmS26NvtSILynQ66cgkT/RJ4LidJOc3bUESwmU8g=="
   "resolved" "https://registry.npmjs.org/react/-/react-16.14.0.tgz"
   "version" "16.14.0"
