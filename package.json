@@ -11,8 +11,8 @@
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "app": "concurrently \"npm run server\" \"npm run client\" \"uvicorn main:app --reload\""
   },
-  "author": "",
-  "license": "MIT",
+  "author": "Aneesh Sambu",
+  "license": "",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
